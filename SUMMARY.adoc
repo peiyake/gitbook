@@ -1,6 +1,0 @@
-= gitbook
-
-. link:a.adoc[章节1]
-. link:a.adoc[章节1]
-. link:a.adoc[章节1]
-. link:a.adoc[章节1]
