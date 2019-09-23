@@ -11,11 +11,11 @@
 ## dump服务安装
 
 1. 安装**kdump** 服务
-
-    yum install -y kexec-tools          // 安装dump服务软件包
-    systemctl enable kdump.service      // 设置 kdump 服务开机启动
-    systemctl status kdump.service      // 查看 kdump 服务当前运行状态
-
+```shell
+yum install -y kexec-tools          // 安装dump服务软件包
+systemctl enable kdump.service      // 设置 kdump 服务开机启动
+systemctl status kdump.service      // 查看 kdump 服务当前运行状态
+```
 2. 开启内核crash
 
 修改系统启动参数，通常是 grub.cfg 文件，在启动参数中添加如下：
