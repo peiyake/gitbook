@@ -72,5 +72,6 @@
         * [lua 学习](part6/web-language/lua.md)
         * [ruby 学习](part6/web-language/ruby.md)
         * [python 学习](part6/web-language/python.md)
+        * [Ruby On Rails 学习](part6/web-language/ruby_on_rails.md)
 * [章节 7 英语学习](part7/part7.md)
         * [单词](part7/words.md)
