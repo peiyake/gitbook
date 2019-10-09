@@ -1,0 +1,3 @@
+[submodule "part5/coding"]
+	path = part5/coding
+	url = git@github.com:peiyake/coding.git

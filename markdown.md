@@ -64,10 +64,11 @@
 
 # 链接
 
+```
     1. 链接的标准用法 [我是标准链接](https://www.google.com)
     2. 鼠标悬停时显示链接说明的用法 [例子](https://www.google.com "谷歌的主页")
     3. 相对引用链接 [例子](./README.md)
-
+```
 
  1. 链接的标准用法 [我是标准链接](https://www.google.com)
  2. 鼠标悬停时显示链接说明的用法 [例子](https://www.google.com "谷歌的主页")
@@ -75,11 +76,12 @@
 
 # 图片 
 
+```
      1. 标准用法
      ![考拉图片](https://avatars3.githubusercontent.com/u/16791778?v=4)
      1. 引用用法
      ![logo](./images/logo.png)
-
+```
 1. 标准用法
    ![考拉图片](https://avatars3.githubusercontent.com/u/16791778?v=4)
 2. 引用用法
