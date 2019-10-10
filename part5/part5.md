@@ -7,4 +7,4 @@
 
 如果有幸被你看到，希望能对你有所帮助！
 
-[点击浏览我的示例项目](coding/doc/html/index.html)
+[点击浏览我的示例项目](https://peiyake.github.io/)
