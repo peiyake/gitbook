@@ -15,6 +15,7 @@
         * [HTTP协议](part1/netproto/http.md)
     * [网络知识](part1/netknowledge.md)
         * [IP地址划分](part1/netknowledge/ipaddrs.md)
+        * [FTP协议知识详解](part1/netknowledge/ftp.md)
         * [广播](part1/netknowledge/broadcast.md)
         * [多播](part1/netknowledge/mutilecast.md)
         * [TCP三次握手四次挥手](part1/netknowledge/tcp-3conn-4off.md)
