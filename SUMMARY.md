@@ -76,3 +76,6 @@
         * [Ruby On Rails 学习](part6/web-language/ruby_on_rails.md)
 * [章节 7 英语学习](part7/part7.md)
         * [单词](part7/words.md)
+* [章节 8 2019软件设计师考试](part8/part8.md)
+        * [软考复习知识点总结](part8/ruankao.md)
+        * [简单理解海明码](part8/haiming.md)

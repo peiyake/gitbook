@@ -87,6 +87,28 @@
 2. 引用用法
    ![logo](./images/logo.png)
 
+# 表情
+
+```
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+```
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+这些表情在github上支持，所有可用表情代码，请参考 (https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+# TO DO列表
+
+```
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+```
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
+
 # 表格
 
 ```
