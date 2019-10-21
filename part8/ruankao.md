@@ -12,7 +12,7 @@
 
 ### 报名网址
 
-    [](http://www.ruankao.org.cn)
+[http://www.ruankao.org.cn](http://www.ruankao.org.cn)
 
 
 ## 考试大纲
