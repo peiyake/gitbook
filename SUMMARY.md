@@ -80,3 +80,4 @@
         * [软考复习知识点总结](part8/ruankao.md)
         * [简单理解海明码](part8/haiming.md)
         * [计算机组成与结构考点总结](part8/section1.md)
+        * [操作系统考点总结](part8/section2.md)
