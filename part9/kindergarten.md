@@ -54,4 +54,4 @@
 
 6. 闵行区2019入园官方政策
 
-    ![2019闵行官方入园政策](http://www.mhedu.sh.cn/gk/qsksxxgk/qkxx/yewqs/qszc/231755.htm)
+    [2019闵行官方入园政策](http://www.mhedu.sh.cn/gk/qsksxxgk/qkxx/yewqs/qszc/231755.htm)
