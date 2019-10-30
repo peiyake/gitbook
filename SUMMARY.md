@@ -27,7 +27,7 @@
         * [IP漂移](part1/netknowledge/ip-vrrp.md)
     * [Linux防火墙](part1/firewall.md)
         * [Netfilter架构的理解](part1/firewall/netfilter.md)
-        * [iptables命令](part1/firewall/iptables-cmd.adoc)
+        * [iptables命令](part1/firewall/iptables-cmd.md)
         * [mangle表](part1/firewall/iptables-mangle.md)
         * [nat表](part1/firewall/iptables-nat.md)
         * [filter表](part1/firewall/iptables-filter.md)
