@@ -63,6 +63,7 @@
         * [Linux dump内核调试](part3/shell/crash-dump.md)
 * [章节 4 Linux编程](part4/part4.md)
     * [用户态编程](part4/userspace.md)
+        * [getopt_long用法](part4/userspace/getopt_long.md)
     * [内核态编程](part4/kernelspace.md)
 * [章节 5 Linux编程实例](part5/part5.md)
 * [章节 6 其它知识学习](part6/part6.md)
