@@ -59,6 +59,7 @@
     * [系统维护](part3/system.md)
         * [CentOS软件包维护](part3/system/centos-rpm.md)
         * [创建自己的ISO镜像](part3/system/create-iso.md)
+        * [搭建gitlab服务器，配置gitlab-runner](part3/system/gitlab_server.md)
     * [shell命令学习](part3/shell.md)
         * [Linux dump内核调试](part3/shell/crash-dump.md)
 * [章节 4 Linux编程](part4/part4.md)
