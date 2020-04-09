@@ -13,6 +13,7 @@
         * [DHCP协议](part1/netproto/dhcp.md)
         * [DNS协议](part1/netproto/dns.md)
         * [HTTP协议](part1/netproto/http.md)
+        * [PPPoE协议详解](part1/netproto/pppoe.md)
     * [网络知识](part1/netknowledge.md)
         * [IP地址划分](part1/netknowledge/ipaddrs.md)
         * [FTP协议知识详解](part1/netknowledge/ftp.md)
