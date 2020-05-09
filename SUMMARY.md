@@ -53,6 +53,7 @@
         * [VPP测试-L2桥接](part1/vpp/l2_bridge.md)
         * [VPP测试-L3转发](part1/vpp/l3_forward.md)
         * [VPP测试-NAT](part1/vpp/nat.md)
+        * [VPP介绍- NODE图](part1/vpp/vpp_node.md)
 * [章节 2 Linux内核源码阅读](part2/part2.md)
     * [内核中断](part2/interrupt.md)
         * [中断机制理解](part2/interrupt/interrupt.md)

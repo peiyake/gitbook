@@ -7,8 +7,9 @@
 ```
 [root@localhost ~]git clone https://gerrit.fd.io/r/vpp
 [root@localhost ~]cd vpp
-[root@localhost ~]git branch -a                 #查看分支
-[root@localhost ~]git checkout stable/1908      # 这里使用文档分支 stable/1908
+[root@localhost ~]git branch -a                   #查看分支
+[root@localhost ~]git tag                         #查看标签
+[root@localhost ~]# git checkout -b v19.08 v19.08 #从tag  v19.08 检出分支 v19.08
 ```
 
 ## 编译
