@@ -70,6 +70,8 @@
         * [创建自己的ISO镜像](part3/system/create-iso.md)
         * [搭建gitlab服务器，配置gitlab-runner](part3/system/gitlab_server.md)
         * [一致性网络设备命名规则](part3/system/nic-name.md)
+        * [ABRT介绍](part3/system/abrt-project.md)
+        * [ABRT监控core-dump](part3/system/abrt-coredump.md)
     * [shell命令学习](part3/shell.md)
         * [Linux dump内核调试](part3/shell/crash-dump.md)
         * [Linux 反向shell](part3/shell/fanxiang_shell.md)
