@@ -75,6 +75,7 @@
     * [shell命令学习](part3/shell.md)
         * [Linux dump内核调试](part3/shell/crash-dump.md)
         * [Linux 反向shell](part3/shell/fanxiang_shell.md)
+        * [git clone/add/diff](part3/shell/git_clone_add_diff.md)
 * [章节 4 Linux编程](part4/part4.md)
     * [用户态编程](part4/userspace.md)
         * [getopt_long用法](part4/userspace/getopt_long.md)
